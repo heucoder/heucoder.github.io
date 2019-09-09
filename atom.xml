@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heucoder.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-09-09T06:36:25.147Z</updated>
+    <title>超爱学习</title>
+    <updated>2019-09-09T06:45:14.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://heucoder.github.io"/>
     <link rel="self" href="https://heucoder.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>喜欢二次元的入门级搬砖工</subtitle>
     <logo>https://heucoder.github.io/images/avatar.png</logo>
     <icon>https://heucoder.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 超爱学习</rights>
     <entry>
         <title type="html"><![CDATA[一文弄懂AdaBoost、提升树、残差树、GDBT]]></title>
         <id>https://heucoder.github.io/post/yi-wen-nong-dong-adaboostti-sheng-shu-can-chai-shu-gdbt</id>
