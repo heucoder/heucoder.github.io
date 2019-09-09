@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heucoder.github.io</id>
     <title>超爱学习</title>
-    <updated>2019-09-09T06:51:19.187Z</updated>
+    <updated>2019-09-09T06:53:52.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://heucoder.github.io"/>
     <link rel="self" href="https://heucoder.github.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://heucoder.github.io/images/avatar.png</logo>
     <icon>https://heucoder.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 超爱学习</rights>
-    <entry>
-        <title type="html"><![CDATA[一文弄懂AdaBoost、提升树、残差树、GDBT]]></title>
-        <id>https://heucoder.github.io/post/yi-wen-nong-dong-adaboostti-sheng-shu-can-chai-shu-gdbt</id>
-        <link href="https://heucoder.github.io/post/yi-wen-nong-dong-adaboostti-sheng-shu-can-chai-shu-gdbt">
-        </link>
-        <updated>2019-09-09T06:30:52.000Z</updated>
-        <content type="html"><![CDATA[<p>本人第一次看到提升方法时，也是一脸懵逼；但是时隔一个寒假，当我为春招恶补机器学习知识时，第二次看见提升方法，顿时有了“拨开云雾见青天”的感觉；古人&quot;温故而知新&quot;诚不欺我。下面是我对常见的四种提升方法的一点理解。</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://heucoder.github.io/post/hello-gridea</id>
